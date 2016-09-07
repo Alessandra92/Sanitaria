@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("CIAO!");
 		//njdkjbsvkvbkjj
 		System.out.println("oooooo");
+		
+		System.out.println("Sono StefNO");
 
 	}
 
